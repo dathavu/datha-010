@@ -1,12 +1,12 @@
 const PHRASES = [
-  "Mai Thanh ❤️ ",
-  "I Love Mai Thanh 🎁",
-  "Mai Thanh ❤️❤️❤️",
-  "Sinh nhật vui vẻ e nhé ❤️",
+  "Thu Hương ❤️ ",
+  "I Love Thu Hương 🎁",
+  "Thu Hương ❤️❤️❤️",
+  "Valentine vui vẻ e nhé ❤️",
   "Có e, mọi thứ đều trở nên kỳ diệu 🌙 💖",
-  "Happy Birthday ấm áp và bình yên nha 💖",
+  "Valentine ấm áp và bình yên nha 💖",
   "Chúc e luôn cười thật tươi 🌟💖",
-  "Happy Birthday ngọt ngào như một bản nhạc 🎶💖"
+  "Valentine ngọt ngào như một bản nhạc 🎶💖"
 ];
 
 const scene = document.getElementById("scene");
